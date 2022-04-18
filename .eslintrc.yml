@@ -51,6 +51,7 @@ rules:
     - off
     - functions: false
       classes: true
+  vue/no-multiple-template-root: off
   #  风格规则
   array-bracket-spacing:
     - error
